@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0b3a2e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffd27d"/>
+      <stop offset="100%" stop-color="#ff8a00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#g1)" />
+
+  <g transform="translate(60,40)">
+    <rect x="0" y="0" width="1080" height="220" rx="14" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.06)" />
+    <text x="40" y="80" font-family="Segoe UI, Roboto, Arial" font-size="42" fill="url(#gold)" font-weight="700">Göbeklitepe Zaman Krizi</text>
+    <text x="40" y="120" font-family="Segoe UI, Roboto, Arial" font-size="18" fill="#cbd5e1">The Göbeklitepe Chronology Crisis — Episteme vs. Doxa</text>
+
+    <g transform="translate(40,150)">
+      <rect x="0" y="0" width="560" height="48" rx="8" fill="#0ea5a4" opacity="0.12" />
+      <text x="18" y="32" font-family="Segoe UI, Roboto, Arial" font-size="16" fill="#ccfbf1">M.Ö. 9600 • Radiokarbon (C14) • Bilimsel Veri</text>
+    </g>
+
+    <g transform="translate(640,150)">
+      <rect x="0" y="0" width="400" height="48" rx="8" fill="#f97316" opacity="0.12" />
+      <text x="18" y="32" font-family="Segoe UI, Roboto, Arial" font-size="16" fill="#ffedd5">Açık Kaynak Araştırma • Katkıya Açık</text>
+    </g>
+  </g>
+
+  <g transform="translate(40,260)">
+    <text x="0" y="0" font-family="Courier New, monospace" font-size="12" fill="#94a3b8">© Proje: kadim-zamanlar-kronolojisi — Görsel: otomatik oluşturuldu</text>
+  </g>
+</svg>
